@@ -20,6 +20,7 @@ public class Animal {
     public boolean isHungry() { return isHungry; }
 
     public int eat() throws NotHungry, AllergyException {
+        int initialEaten = eaten;
 
         if (!isHungry) {
             System.out.println("Animal not hungry.");
@@ -34,6 +35,7 @@ public class Animal {
         System.out.println("Animal is eating!");
         isHungry = false;
         eaten ++;
+        assert(!isHungry && eaten > initialEaten);
         return eaten;
     }
 }
