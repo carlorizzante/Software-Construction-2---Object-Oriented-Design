@@ -1,5 +1,8 @@
 package model;
 
+import exceptions.BrokeException;
+import exceptions.DidntEat;
+
 import java.util.List;
 
 public class Manager {
@@ -12,5 +15,15 @@ public class Manager {
         this.keeper = keeper;
     }
 
-    public void manage() { keeper.feed(); }
+    public void manage() throws BrokeException {
+        System.out.println("Manager is managing the keeper.");
+        try {
+            keeper.feed();
+        } catch (DidntEat e) {
+            System.out.println("Get the doctor! Again!");
+            throw new BrokeException();
+        } finally {
+            System.out.println("Finally, Manager says: Regardless of what happens.");
+        }
+    }
 }
