@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.0.5] - 2017-11-13
+### Added
+- BusFareCard project
+- MovieTheatre
+- StudentRecord project
+
 ## [0.0.4] - 2017-11-12
 ### Added
 - FoodTruck project
