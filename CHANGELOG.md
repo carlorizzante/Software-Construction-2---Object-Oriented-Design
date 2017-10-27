@@ -4,25 +4,40 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [0.0.6] - 2017-11-15
+## [0.7.0] - 2016-10-27
+### Added
+- CongenialHairSalon
+- CourseInstructorStudents
+- FitLifeGymChainOOD
+- GirlGuide
+- Instrument
+- LibrarySystemMaster
+- PetPairs
+- SelfDrivingCar
+- Theatre
+
+### Changed
+- Corrected dates in CHANGELOG.md
+
+## [0.0.6] - 2017-10-15
 ### Added
 - RobustnessQuiz
 
-## [0.0.5] - 2017-11-13
+## [0.0.5] - 2017-10-13
 ### Added
 - BusFareCard project
 - MovieTheatre
 - StudentRecord project
 
-## [0.0.4] - 2017-11-12
+## [0.0.4] - 2017-10-12
 ### Added
 - FoodTruck project
 
-## [0.0.3] - 2017-11-12
+## [0.0.3] - 2017-10-12
 ### Changed
 - Adds assertions to ExceptionalZoo/src/model/Animal
 
-## [0.0.2] - 2017-11-12
+## [0.0.2] - 2017-10-12
 ### Added
 - CoffeeMaker/src/exceptions
 - Weather project
