@@ -1,10 +1,11 @@
 # Software Construction 2 - Object Oriented Design
-Release 0.7.0
+Release 0.8.0
 
-Collection of worked problems.
+Worked problems collection.
 
 ## Projects
 - BusFareCard
+- BusyDiner
 - Cake
 - CoffeeMaker
 - CongenialHairSalon
@@ -12,12 +13,15 @@ Collection of worked problems.
 - ExceptionalZoo
 - FitLifeGymChainOOD
 - FoodTruck
+- GangesLSP
+- GangesSRP
 - GirlGuide
 - Instrument
 - LibrarySystemMaster
 - MovieTheatre
 - PetPairs
-- RobustnessQuiz
+- RefactoredHairSalon
+- RefactoredSimpleDrawingPlayer- RobustnessQuiz
 - SelfDrivingCar
 - StudentRecord
 - Theatre
