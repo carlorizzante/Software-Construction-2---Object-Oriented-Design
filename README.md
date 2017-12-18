@@ -1,5 +1,5 @@
 # Software Construction 2 - Object Oriented Design
-Release 0.8.0
+Release 0.9.0 UNRELEASED
 
 Worked problems collection.
 
@@ -18,6 +18,7 @@ Worked problems collection.
 - GirlGuide
 - Instrument
 - LibrarySystemMaster
+- MonsterMaze - WORK IN PROGRESS
 - MovieTheatre
 - PetPairs
 - RefactoredHairSalon
