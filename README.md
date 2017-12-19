@@ -1,5 +1,5 @@
 # Software Construction 2 - Object Oriented Design
-Release 0.9.0 UNRELEASED
+Release 0.9.0
 
 Worked problems collection.
 

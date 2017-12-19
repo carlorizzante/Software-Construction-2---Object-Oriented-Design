@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 This project adheres to [Semantic Versioning](http://semver.org/).
 
-## [0.9.0] UNRELEASED
+## [0.9.0] - 2017-12-19
 ### Added
 - AuctionHouse
 - Bingo
