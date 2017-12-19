@@ -6,7 +6,12 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.9.0] UNRELEASED
 ### Added
+- AuctionHouse
+- Bingo
+- iPod
 - MonsterMaze
+- SillyWordGame
+- TaskManager
 
 ## [0.8.0] - 2017-12-18
 ### Added

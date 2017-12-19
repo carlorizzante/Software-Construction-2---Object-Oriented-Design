@@ -4,6 +4,8 @@ Release 0.9.0 UNRELEASED
 Worked problems collection.
 
 ## Projects
+- AuctionHouse
+- Bingo
 - BusFareCard
 - BusyDiner
 - Cake
@@ -17,13 +19,16 @@ Worked problems collection.
 - GangesSRP
 - GirlGuide
 - Instrument
+- iPod
 - LibrarySystemMaster
-- MonsterMaze - WORK IN PROGRESS
+- MonsterMaze
 - MovieTheatre
 - PetPairs
 - RefactoredHairSalon
 - RefactoredSimpleDrawingPlayer- RobustnessQuiz
 - SelfDrivingCar
+- SillyWordGame
 - StudentRecord
+- TaskManager
 - Theatre
 - Weather
